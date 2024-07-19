@@ -29,7 +29,9 @@ This project features an interactive sales dashboard created using Microsoft Exc
 ## Screenshots
 Here are some screenshots of the sales dashboard:
 
-![Sales Dashboard Overview](https://github.com/rithulshaji/Sales-Dashboard/blob/main/Sales_Dashboard.png)
+![Sales Dashboard Overview_1](https://github.com/rithulshaji/Sales-Dashboard/blob/main/Sales_Dashboard.png)
+
+![Sales Dashboard Overview_2](https://github.com/rithulshaji/Sales-Dashboard/blob/main/Sales_Dashboard2.png)
 
 ## How to Use
 1. Download the Excel file from this repository.
